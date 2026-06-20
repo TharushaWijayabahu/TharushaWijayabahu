@@ -1,4 +1,4 @@
-# Hello, I'm Tharusha Wijayabahu 👋
+# Hello, I'm Ishan Tharusha Wijayabahu 👋
 
 ## About Me
 I'm a Senior Software Engineer based in Singapore, bringing robust expertise and passion to the field of software development. A graduate from the University of Westminster, I have honed a diverse skill set focused on delivering high-quality software solutions.
